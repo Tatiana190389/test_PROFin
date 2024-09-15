@@ -1,0 +1,84 @@
+{
+  "dataItems": [
+    {
+      "id": 1,
+      "barcode": "111111111",
+      "item": "Одежда",
+      "article_number": "Кардиган",
+      "size": "50-60",
+      "available_to_order": 0,
+      "goods_on_way": 40,
+      "total": 30
+    },
+    {
+      "id": 2,
+      "barcode": "222222222",
+      "item": "Одежда",
+      "article_number": "Брюки",
+      "size": "42",
+      "available_to_order": 56,
+      "goods_on_way": 2,
+      "total": 55
+    },
+    {
+      "id": 3,
+      "barcode": "3333333333",
+      "item": "Одежда",
+      "article_number": "Юбка",
+      "size": "44-46",
+      "available_to_order": 89,
+      "goods_on_way": 5,
+      "total": 522
+    },
+    {
+      "id": 4,
+      "barcode": "44444444",
+      "item": "Одежда",
+      "article_number": "Куртка",
+      "size": "54",
+      "available_to_order": 4,
+      "goods_on_way": 1,
+      "total": 6
+    },
+    {
+      "id": 5,
+      "barcode": "555555555",
+      "item": "Одежда",
+      "article_number": "Блуза",
+      "size": "40",
+      "available_to_order": 78,
+      "goods_on_way": 5,
+      "total": 52
+    },
+    {
+      "id": 6,
+      "barcode": "666666666",
+      "item": "Одежда",
+      "article_number": "Рубашка",
+      "size": "52",
+      "available_to_order": 25,
+      "goods_on_way": 4,
+      "total": 32
+    },
+    {
+      "id": 7,
+      "barcode": "777777777",
+      "item": "Одежда",
+      "article_number": "Футболка",
+      "size": "50",
+      "available_to_order": 45,
+      "goods_on_way": 8,
+      "total": 78
+    },
+    {
+      "id": 8,
+      "barcode": "8888888888",
+      "item": "Одежда",
+      "article_number": "Джинсы",
+      "size": "54",
+      "available_to_order": 588,
+      "goods_on_way": 356,
+      "total": 89
+    }
+  ]
+}
